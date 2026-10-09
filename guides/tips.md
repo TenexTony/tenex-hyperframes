@@ -26,7 +26,7 @@ If your chosen AI offers a reasoning setting, try a higher setting when the plan
 
 Open the previous project or attach its reference frames and assets. Say what to reuse: fonts, colors, pacing, or the closing card. If Studio offers `@` project references, select the project from its menu instead of typing a guessed project name.
 
-Drawing tools and `@` references vary by version. See the [source notes](../resources/sources.md#limits-and-unresolved-details) for details awaiting confirmation.
+Drawing tools and `@` references vary by version. See the [source notes](../resources/sources.md#limits) for the scope of this guide.
 
 ## Keep text readable
 

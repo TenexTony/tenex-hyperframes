@@ -66,7 +66,7 @@ Both install commands match the official docs as of October 9, 2026.
 
 ### Grok
 
-Grok setup is not documented in this pack. Use Claude Code or Codex, or check Studio's current provider options. See the [source notes](../resources/sources.md#limits-and-unresolved-details) for details awaiting confirmation.
+Grok setup is not documented in this pack. Use Claude Code or Codex, or check Studio's current provider options. See the [source notes](../resources/sources.md#limits) for the scope of this guide.
 
 ## Command not found?
 
