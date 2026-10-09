@@ -38,7 +38,3 @@ This draft needs no voiceover. Use attached music or an available track I can us
 - Choose one audience and one main benefit.
 - Tell it what you like about the reference: text size, pacing, color, or camera movement.
 - Screenshots should show the current product rather than an imagined version.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

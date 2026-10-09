@@ -38,7 +38,3 @@ No voiceover is needed. Save the source cells or rows and calculations for each 
 - Keep private or irrelevant columns out of the file you attach.
 - This prompt makes several findings into a story; prompt 02 makes one chart.
 - Check its calculations before approving the preview.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

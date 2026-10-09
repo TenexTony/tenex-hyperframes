@@ -35,7 +35,3 @@ Before building, show me the storyboard and wait for my OK. Then build a preview
 - Record a 30-second phone video first, then attach it.
 - Use beat text that matches your recording; graphics cannot fix a different spoken script.
 - Prompt 00 can approve the storyboard and draft render while you are away; account permissions may still pause the work.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

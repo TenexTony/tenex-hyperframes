@@ -55,7 +55,3 @@ If no usable footage is found, leave the speaker visible and record the missing 
 - Start with a short section to confirm the style before editing a full episode.
 - Supply a target length; “make it tighter” does not say how much to cut.
 - Footage needs a usable source and clear terms. Finding a clip online alone does not establish that you can reuse it.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

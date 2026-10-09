@@ -37,7 +37,3 @@ Show me the preview. After my approval, run the project checks and export an MP4
 - Show what readers get, rather than saying the newsletter is “must-read.”
 - Use a screenshot of a real issue with a clear, useful headline.
 - Put the signup link in the caption or video description as well.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

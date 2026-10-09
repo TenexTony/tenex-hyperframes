@@ -39,7 +39,3 @@ Show me the preview. After my approval, run the project checks and export an MP4
 - Put the clickable registration link in the social post or video description.
 - Include a timezone even if most attendees are local.
 - Check the date and names in the exported MP4.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

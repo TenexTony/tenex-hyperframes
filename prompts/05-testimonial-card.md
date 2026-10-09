@@ -35,7 +35,3 @@ Show me the preview. After my approval, run the project checks and export an MP4
 - Use a quote the customer has approved for this purpose.
 - A short quote leaves time for the viewer to read it.
 - Replace practice placeholders before using the video as a real testimonial.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

@@ -34,7 +34,3 @@ In NOTES.md, compare the original and revision: wording, colors, fonts, visuals,
 - Choose one reference and name the colors, fonts, and layouts to follow.
 - Upload font files you can use, or name an available substitute yourself.
 - Compare the same scenes in both versions to see what improved.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

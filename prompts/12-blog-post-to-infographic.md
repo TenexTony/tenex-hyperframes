@@ -35,7 +35,3 @@ Show the three ideas and scene plan, then the preview. After my approval, run th
 - Choose this for explaining the article; choose prompt 04 for announcing it.
 - A process diagram works well when the article has steps but no data.
 - Ask for fewer ideas if the first draft feels rushed.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

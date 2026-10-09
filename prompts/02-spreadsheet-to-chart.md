@@ -31,7 +31,3 @@ Show me the preview. After my approval, run the project checks and export an MP4
 - Export the relevant sheet as CSV if you started in Excel.
 - Include the currency and whether values are in dollars, thousands, or millions.
 - Practice data should stay visibly labeled even in the exported video.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

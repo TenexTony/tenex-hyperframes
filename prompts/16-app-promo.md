@@ -37,7 +37,3 @@ No voiceover is needed. Use supplied music if available; otherwise a silent draf
 - Describe the feel in everyday words; you do not need a named design style.
 - Record the screen if viewers need to see a tap, search, or other action.
 - Use assets from your own app rather than copying another app's characters or branding.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

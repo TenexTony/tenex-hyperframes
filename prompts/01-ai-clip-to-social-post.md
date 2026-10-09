@@ -32,7 +32,3 @@ Show me the preview. After my approval, run the project checks and export an MP4
 - A hook of six words or fewer is easier to read quickly.
 - Describe the clip plainly so the AI does not invent what it shows.
 - Leave space near the edges for social app buttons and captions.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

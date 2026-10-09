@@ -33,7 +33,3 @@ Show me the preview. After my approval, run the project checks and export an MP4
 - Prompt 06 uses a brief you fill in; this one extracts details from a page.
 - Confirm the timezone and whether you are promoting a live event or replay.
 - Make the registration link clickable in the accompanying social post.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

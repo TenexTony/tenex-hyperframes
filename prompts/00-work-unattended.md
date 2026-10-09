@@ -29,7 +29,3 @@ Watch the preview with sound, fix unreadable text, bad cuts, and audio glitches,
 - Replace its style blanks, then paste it above the main prompt in the same message.
 - Use it after one successful run. It cannot approve account permissions or supply missing files.
 - It allows creative review steps to be skipped for a draft. Review the MP4 yourself before sharing.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

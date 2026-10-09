@@ -34,7 +34,3 @@ Show me the revised preview and a short list of changes. After my approval, run 
 - Use this after the story and timing already work.
 - Subtle perspective often looks better than constant rotation.
 - Ask for pause removal separately; this prompt preserves your edit's timing.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

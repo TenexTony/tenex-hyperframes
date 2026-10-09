@@ -30,7 +30,3 @@ Save which parts of the post support the four ideas in NOTES.md. Show me the pre
 - Use a short display URL while keeping the full URL in the post's description.
 - Check that the hook says what the article actually supports.
 - Attach a screenshot if the page requires sign-in.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.

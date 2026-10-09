@@ -31,7 +31,3 @@ Use attached music quietly if available. If you cannot read the PDF, ask me for 
 - Export slides as a PDF with selectable text and readable chart labels.
 - Name the audience and takeaway before you paste the prompt.
 - A 60-second video cannot cover every detail of a long deck.
-
-## Example
-
-TODO (Anthony): add GIF from hyperframes-blog-images.
