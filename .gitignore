@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+private/
+inputs/
+renders/
+*.mp4
+*.mov
+*.wav
