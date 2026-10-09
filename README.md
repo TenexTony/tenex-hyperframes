@@ -51,8 +51,8 @@ HyperFrames is free and open-source, and local rendering does not use HeyGen cre
 
 ## Watch and learn
 
-- [HyperFrames Studio: Beginner's Guide + Honest Review (2026)](https://tenex.co/blog/hyperframes-studio-guide) — **TODO (Anthony): publish or confirm the blog URL. It returned 404 on October 9, 2026.**
-- HyperFrames Studio video — **TODO (Anthony): add the link once live.**
+- [HyperFrames Studio: Beginner's Guide + Honest Review (2026)](https://www.tenex.co/blog/hyperframes-studio-guide).
+- [HyperFrames Studio video tutorial](https://youtu.be/pV_ZfZ96_tk).
 - [Full AI video workflow](https://youtu.be/uqgpYIlpuEs).
 - [Subscribe to Ultrathink](https://www.tenex.co/ultrathink) — get the Tenex newsletter.
 
