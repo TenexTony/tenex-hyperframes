@@ -1,6 +1,6 @@
 # Ultrathink delivery copy
 
-Copy for Matt to use in the signup form and delivery email. The repo is private for now; make it accessible to subscribers before sending.
+Copy for Matt to use in the signup form and delivery email. The prompt pack is available in the public repository linked below.
 
 ## Signup box
 

@@ -4,7 +4,7 @@ Prepared October 9, 2026. Includes 17 prompt files and two podcast follow-up sni
 
 Local folder: `tenex-hyperframes` inside the video workspace.
 
-Repository: [TenexTony/tenex-hyperframes](https://github.com/TenexTony/tenex-hyperframes). Created as private. Matt handles beehiiv delivery.
+Public repository: [TenexTony/tenex-hyperframes](https://github.com/TenexTony/tenex-hyperframes). Matt handles beehiiv delivery.
 
 ## Files
 
@@ -49,9 +49,8 @@ Repeated TODO notes in the pack are grouped here by the decision or asset they n
 6. **Grok:** confirm support, account requirements, and setup before listing it as supported in [sources](sources.md).
 7. **Drawing:** confirm the desktop annotation tool and how to open it in [sources](sources.md).
 8. **Project references:** confirm `@` project references and their behavior in [sources](sources.md).
-9. **Reader access:** the repo URL is filled in [launch copy](launch-copy.md). Make the repository accessible to subscribers before Matt sends the email.
-10. **Campaign signup and email delivery:** have Matt confirm the campaign signup URL and connect delivery in beehiiv. The general Ultrathink signup URL works. See [launch copy](launch-copy.md).
-11. **Example GIFs:** supply and insert a GIF from `hyperframes-blog-images` for each of the 17 prompt files listed above, 00 through 16. Each file has its own Example TODO.
+9. **Campaign signup and email delivery:** have Matt confirm the campaign signup URL and connect delivery in beehiiv. The general Ultrathink signup URL works. See [launch copy](launch-copy.md).
+10. **Example GIFs:** supply and insert a GIF from `hyperframes-blog-images` for each of the 17 prompt files listed above, 00 through 16. Each file has its own Example TODO.
 
 These are reusable prompts. They should not be described as verbatim prompts from the recorded builds.
 
@@ -65,6 +64,7 @@ These are reusable prompts. They should not be described as verbatim prompts fro
 - Both supplied fallback install commands match current official docs. No installer was executed.
 - All 16 distinct external Markdown links were checked. Fifteen returned HTTP 200, including redirects. The supplied blog URL returned 404 and is explicitly marked as a TODO.
 - No actual HyperFrames video was generated to test these prompts. Capability claims were checked against the cited docs; uncertain desktop claims remain labeled.
+- All 26 uploaded files were compared with the local pack and matched byte for byte. GitHub confirms the repository is public.
 
 The license note, missing links, app confirmations, and example GIFs remain for Anthony and Matt.
 
