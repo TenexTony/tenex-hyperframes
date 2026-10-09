@@ -1,5 +1,9 @@
 # Tenex HyperFrames Prompt Pack
 
+<p align="center">
+  <img src="assets/hyperframes-prompt-pack.png" alt="Tenex HyperFrames Prompt Pack box art" width="360">
+</p>
+
 Free copy-paste prompts for beginners and busy professionals making videos in HyperFrames Studio.
 
 You do not need to write code or know video editing.
