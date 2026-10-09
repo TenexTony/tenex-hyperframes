@@ -4,7 +4,7 @@ Reviewed October 9, 2026. These prompts are suggested starting points. No video 
 
 ## Model and supplied material
 
-- [Muse Personal Agent Starter Kit](https://github.com/tenex-labs/muse-personal-agent-start-kit): short README, numbered first steps, separate guides, practical prompt pages, source notes, and a Tenex footer. Its public file tree did not include a LICENSE file when checked.
+- [Muse Personal Agent Starter Kit](https://github.com/tenex-labs/muse-personal-agent-start-kit): short README, numbered first steps, separate guides, practical prompt pages, source notes, and a Tenex footer.
 - Anthony's supplied kickoff and source prompts: the original ten prompt ideas and his recorded desktop setup and usage observations. New prompts 10–16 are original reusable examples, not reconstructions of his exact build prompts.
 - [Ultrathink signup](https://www.tenex.co/ultrathink): working newsletter signup page, also linked by the Muse kit.
 
@@ -26,17 +26,13 @@ Reviewed October 9, 2026. These prompts are suggested starting points. No video 
 
 The Claude Code and Codex fallback commands match the current documentation. They were checked, not executed.
 
-## Limits and unresolved details
+## Limits
 
 - The public framework documentation does not confirm every desktop app feature. The download page confirms platforms, not the whole sign-in and provider-connection flow.
-- **TODO (Anthony): confirm current desktop sign-in and HeyGen account requirements.**
-- **TODO (Anthony): confirm the guided Claude installer, Codex setup, and “Check again” label.**
-- **TODO (Anthony): confirm Grok support, account requirements, and setup.**
-- **TODO (Anthony): confirm the drawing/annotation tool and how to open it.**
-- **TODO (Anthony): confirm `@` project references and how they reuse assets or styles.**
+- Desktop sign-in, installer screens, drawing tools, and `@` references can vary by version. Follow the options shown in your app. This pack documents Claude Code and Codex; it does not provide Grok setup instructions.
 - Access to websites, spreadsheets, media search, transcription, and generated audio depends on the connected AI and installed tools. Each relevant prompt offers an attachment or clearly marked placeholder fallback. No universal one-click result is promised.
 - A presentation workflow can produce an interactive deck. The slide prompts here explicitly ask for an MP4 video instead.
 - The unattended prompt expresses approval for a local draft. It cannot remove an app's permission requests or guarantee that every installed workflow runs without stopping.
-- The blog link supplied for this pack returned HTTP 404: **TODO (Anthony): publish or confirm https://tenex.co/blog/hyperframes-studio-guide.**
+- Anthony supplied the [video tutorial](https://youtu.be/pV_ZfZ96_tk) and [blog guide](https://www.tenex.co/blog/hyperframes-studio-guide). The video link loaded successfully. The blog URL returned HTTP 404 when checked on October 9, 2026.
 
 This is an independent Tenex resource, not official HeyGen documentation.

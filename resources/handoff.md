@@ -12,7 +12,6 @@ Public repository: [TenexTony/tenex-hyperframes](https://github.com/TenexTony/te
 | --- | --- |
 | [README.md](../README.md) | Beginner introduction, requirements, steps, every prompt, learning links, and Tenex footer. |
 | [.gitignore](../.gitignore) | Excludes common private inputs, credentials, and generated media. |
-| [LICENSE](../LICENSE) | Pending-license note; replace after choosing a license. |
 | [CONTRIBUTING.md](../CONTRIBUTING.md) | Plain-language editing and source-checking guidance. |
 | [guides/setup.md](../guides/setup.md) | Desktop download, AI connection, checked fallback commands, and troubleshooting. |
 | [guides/tips.md](../guides/tips.md) | Planning, brand direction, visual fixes, footage, reasoning, reuse, and export review. |
@@ -33,40 +32,29 @@ Public repository: [TenexTony/tenex-hyperframes](https://github.com/TenexTony/te
 | [prompts/14-webinar-page-to-promo.md](../prompts/14-webinar-page-to-promo.md) | Event page to a 30-second live-event or replay promo. |
 | [prompts/15-podcast-edit.md](../prompts/15-podcast-edit.md) | Main podcast edit prompt plus two separate refinement prompts. |
 | [prompts/16-app-promo.md](../prompts/16-app-promo.md) | Real screenshots or recording to a 20-second app showcase. |
-| [resources/sources.md](sources.md) | Official evidence, reviewed date, and unresolved desktop details. |
+| [resources/sources.md](sources.md) | Official references, reviewed date, and guide limits. |
 | [resources/launch-copy.md](launch-copy.md) | Signup box and five-sentence welcome email for Matt. |
-| [resources/handoff.md](handoff.md) | File inventory, all outstanding tasks, and validation results. |
+| [resources/handoff.md](handoff.md) | File inventory and validation results. |
 
-## All open Anthony tasks
+## Pack status
 
-Repeated TODO notes in the pack are grouped here by the decision or asset they need.
-
-1. **License:** choose the license and replace the pending note in [LICENSE](../LICENSE). The model repo has no LICENSE file to match.
-2. **Blog URL:** publish or confirm the supplied blog URL. It returned 404. Notes appear in [README](../README.md) and [sources](sources.md).
-3. **Video URL:** add the live HyperFrames Studio video link in [README](../README.md).
-4. **Desktop sign-in:** confirm the current screen and HeyGen account requirement in [sources](sources.md).
-5. **AI connection flow:** confirm Studio's guided Claude installer, Codex steps, and “Check again” label in [sources](sources.md).
-6. **Grok:** confirm support, account requirements, and setup before listing it as supported in [sources](sources.md).
-7. **Drawing:** confirm the desktop annotation tool and how to open it in [sources](sources.md).
-8. **Project references:** confirm `@` project references and their behavior in [sources](sources.md).
-9. **Campaign signup and email delivery:** have Matt confirm the campaign signup URL and connect delivery in beehiiv. The general Ultrathink signup URL works. See [launch copy](launch-copy.md).
-10. **Example GIFs:** supply and insert a GIF from `hyperframes-blog-images` for each of the 17 prompt files listed above, 00 through 16. Each file has its own Example TODO.
+The supplied video and blog links are included. The license placeholder and example GIF sections have been removed. Feature notes describe the guide's limits rather than request further confirmations. Delivery copy is ready for Matt; no beehiiv campaign has been configured or sent.
 
 These are reusable prompts. They should not be described as verbatim prompts from the recorded builds.
 
 ## Checks completed
 
-- All 17 prompt files use the five requested sections. Each has one main copy-paste block; the podcast file also includes two separately copyable follow-ups.
+- All 17 prompt files use the four sections: What it makes, What to attach, The prompt, and Tips. Each has one main copy-paste block; the podcast file also includes two separately copyable follow-ups.
 - The README links to every prompt. Local file links and heading anchors resolve.
 - Spelling was checked for Tenex and HyperFrames. Prompt files contain no Tenex-only colors, URLs, or product details.
 - Text was scanned for common secret/key patterns, email addresses, and private filesystem paths. None were found. Review found no client names or private account details.
 - Beginner instructions explain attachments, blanks, Terminal, preview approval, and MP4 export. They distinguish the desktop app from the fallback AI installers.
 - Both supplied fallback install commands match current official docs. No installer was executed.
-- All 16 distinct external Markdown links were checked. Fifteen returned HTTP 200, including redirects. The supplied blog URL returned 404 and is explicitly marked as a TODO.
+- External reference links were checked. The supplied video link loaded successfully; the supplied blog URL returned HTTP 404 on October 9, 2026.
 - No actual HyperFrames video was generated to test these prompts. Capability claims were checked against the cited docs; uncertain desktop claims remain labeled.
-- All 26 uploaded files were compared with the local pack and matched byte for byte. GitHub confirms the repository is public.
+- All 25 GitHub files were compared with the local pack and matched byte for byte. GitHub confirms the repository is public.
 
-The license note, missing links, app confirmations, and example GIFs remain for Anthony and Matt.
+The blog link is included for the coordinated launch. Anthony confirmed that the page is not live yet.
 
 ## Writing audit
 

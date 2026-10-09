@@ -18,4 +18,4 @@ This wording can also introduce the signup link in the YouTube description.
 
 Here's your free Tenex HyperFrames prompt pack: https://github.com/TenexTony/tenex-hyperframes. It includes setup instructions and prompts for social posts, product promos, charts, and video edits. Choose one, replace the blanks, and paste it into HyperFrames Studio with your files attached. Watch the first draft and ask for one specific change. Welcome to Ultrathink—we'll send you more AI tools and tutorials in the newsletter.
 
-TODO (Anthony): have Matt confirm the campaign signup URL and connect delivery in beehiiv. The existing general newsletter URL is https://www.tenex.co/ultrathink.
+Newsletter signup: [Ultrathink](https://www.tenex.co/ultrathink). This file supplies copy for Matt; it does not configure or send a beehiiv campaign.
